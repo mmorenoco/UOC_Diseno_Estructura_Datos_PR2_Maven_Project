@@ -1,0 +1,7 @@
+-Modificadas las estrucutas de datos de la PEC1, conforme a la solucion oficial de la PEC2.
+-Implementadas las nuevas estrucutas de datos de añadidas en la solución oficial de la PEC2.
+-Implementadas las nuevas clases Group, Order, Role, Worker.
+-Implementadas las nuevas excepciones.
+-Modificada la clase Activity, para agregar la gestión de ordenes de compra y llevando la lista encadenada de tickes a la clase Order, para gestionar los tickets de la ordenes de compra. 
+-Modificados los métodos de la PEC1, conforme con las nuevas estructuras de datos. 
+-Pasados los juegos de prueba PR1Test y PR2Test.
